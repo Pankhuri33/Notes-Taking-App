@@ -1,0 +1,17 @@
+ we are using the common js form of code and we ware using callback APIs.
+
+                        FILE SYSTEM OPERATIONS
+const fs = require('fs);
+
+WE GOT TO STUDY APIs:
+* writefile
+* copyfile
+* unlink
+* appendfile
+* rename
+
+
+THE NEXT MODULE IS : HTTP MODULE
+it is a protocol or rules which needs to be followed for performing any activity on the internet.
+
+

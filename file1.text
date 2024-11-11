@@ -1,0 +1,41 @@
+Node.js is a javascript runtime server environment.
+
+// fundamentals of javascript
+// arrays and objects
+// functions return
+// async js coding
+// forEach map filter find indexOf
+
+
+// USE OF MAP FUNCTION
+var arr = [1,2,3,4,10,5,0,78];
+/*var newarr = arr.map(function(val){
+    return val*4;
+})
+console.log(newarr);*/
+
+//USE OF FILTER FUNCTION 
+/*var newarr = arr.filter(function(val){
+    if(val > 3)
+    {return true;}
+    else return false;
+})
+console.log(newarr);*/
+
+// USE OF FIND FUNCTION
+/*var newarr = arr.find(function(val){
+    if(val === 3)
+        return val;
+    })
+    console.log(newarr);*/
+
+/*OBJECTS 
+ var obj = {
+    kuchbhi : kuchbhi as value in strings
+}
+    
+FUNCTIONS IN JS
+var add = function(a,b){
+here function is an object , and hence we can find the length of it
+*/
+

@@ -1,0 +1,15 @@
+Things required to build a project:
+
+initialise a project with npm
+install express
+
+
+DYNAMIC routing
+       dynamic routing
+       how to get data from frontend to backend
+
+We need to setup ejs for dynamic calculations, unlike html   
+
+installl ejs from npm
+set up ejs as view engine
+setting up public static files

@@ -1,0 +1,24 @@
+EXPRESS JS, Express.js Framework
+
+introduction to express.js
+---> express js is an npm package
+---> it is a framework for node.js
+---> it is used for building web applications
+---> it is a fast and flexible framework
+
+*** difference between framework and library
+---> library is a collection of reusable code that can be used in a project
+()
+---> framework is a structure that provides a set of tools and guidelines to build a project
+---> manages everything from recv req and give response
+
+
+
+
+set up a basic express application
+routing
+middleware
+request ans response handling
+error handling
+
+
